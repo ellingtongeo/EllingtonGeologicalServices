@@ -1,4 +1,4 @@
-baseURL = "http://ellingtongeo.com/"
+baseURL = "http://ellingtongeo.kanekotic.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Ellington Geological Services"
@@ -105,7 +105,7 @@ custom_css = ["css/custom.css"]
     # footer
     [params.footer]
         copyright = "Ellington Geological Services"
-        copyrightURL = "http://ellingtongeo.com"
+        copyrightURL = "http://ellingtongeo.kanekotic.com"
 
         # social Icons
         [[params.footer.socialIcon]]
