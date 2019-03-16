@@ -3,15 +3,14 @@ theme : "Serif"
 transition: "zoom"
 ---
 
-# Ellington Geological Services
+## Ellington Geological Services
 
-### Digital strategy
+#### Digital Strategy Definition
 
-<small>Created by [Alvaro](http://kanekotic.xom) / [@kanekotic](http://twitter.com/kanekotic)</small>
 
 ---
 
-## Agile Mindset
+## Agile Definition
 
 --
 
@@ -25,7 +24,7 @@ transition: "zoom"
 
 ---
 
-# Problems
+# Challenges
 
 ---
 
@@ -79,8 +78,6 @@ Domain name provider ([Ionos](https://www.ionos.com/), [goDaddy](https://www.god
 - You could run your own. Complexity and maintainance are up to you.
 
 --
-
-## Pricing
 
 | Service     |Price $/year    | Domain           | Email  | Storage  |Apps  |
 | ------------- | :-----------: | :----: | :----: | :----: |:----: |
