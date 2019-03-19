@@ -56,7 +56,7 @@ gmapAPI = ""
 description = "The geological services you need"
 author = "Ellington Geological Services"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-136503827-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
