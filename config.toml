@@ -1,4 +1,4 @@
-baseURL = "http://www.kanekotic.com/EllingtonGeologicalServices/"
+baseURL = "http://www.ellingtongeo.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Ellington Geological Services"
@@ -12,15 +12,15 @@ summaryLength = 10
 
 # Menu
 [menu]
-    [[menu.nav]]
-    name = "About Us"
-    URL = "about"
-    weight = 2
+#    [[menu.nav]]
+#    name = "About Us"
+#    URL = "about"
+#    weight = 2
 
-    [[menu.nav]]
-    name = "Service"
-    URL = "services"
-    weight = 3
+#    [[menu.nav]]
+#    name = "Service"
+#    URL = "services"
+#    weight = 3
 
 #    [[menu.nav]]
 #    name = "Portfolio"
@@ -51,10 +51,10 @@ summaryLength = 10
 [params]
 home= "Home"
 logo = "images/logo.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+gmapAPI = ""
 # Meta data
 description = "The geological services you need"
-author = "Kanekotic"
+author = "Ellington Geological Services"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
@@ -65,10 +65,10 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
     heading = "Experience Near You"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    content= "Our page is under construction. Nevertheless our services are up and runing with the years of experience that identify us."
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="Contact Us"
+    btnURL="#contact-us"
 
     # call to action
     [params.cta]
@@ -104,22 +104,10 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Ellington Geological Services"
+        copyright = "Ellington Geological Services. Created my free logo at LogoMakr.com"
         copyrightURL = "http://ellingtongeo.com"
 
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
+        # # social Icons
+        # [[params.footer.socialIcon]]
+        # icon = "tf-ion-social-linkedin"
+        # url = "#"
