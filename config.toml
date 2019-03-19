@@ -42,10 +42,10 @@ summaryLength = 10
 #    URL = "blog"
 #    weight = 7
 
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 8
+#    [[menu.nav]]
+#    name = "Contact"
+#    URL = "contact-us"
+#    weight = 8
 
 # Site params
 [params]
@@ -65,8 +65,8 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
     heading = "Experience Near You"
-    content= "Our page is under construction. Nevertheless our services are up and runing with the years of experience that identify us."
-    btn = true
+    content= "Our page is under construction. Nevertheless our services are up and runing with the years of experience that identify us. Contact us at contact@ellingtongeo.com"
+    btn = false
     btnText="Contact Us"
     btnURL="#contact-us"
 
@@ -104,8 +104,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Ellington Geological Services. Created my free logo at LogoMakr.com"
-        copyrightURL = "http://ellingtongeo.com"
+        copyright = "Kanekotic. With the help of Logomkr.com and Themefisher Team"
+        copyrightURL = "/attribution"
 
         # # social Icons
         # [[params.footer.socialIcon]]

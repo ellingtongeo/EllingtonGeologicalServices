@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.ellingtongeo.com/attribution/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ellingtongeo.com/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
@@ -66,6 +71,12 @@
   
   <url>
     <loc>http://www.ellingtongeo.com/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ellingtongeo.com/author/kanekotic/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
