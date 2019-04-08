@@ -65,8 +65,8 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
     heading = "Experience Near You"
-    content= "Our page is under construction. Nevertheless our services are up and runing with the years of experience that identify us. Contact us at contact@ellingtongeo.com"
-    btn = false
+    content= ""
+    btn = true
     btnText="Contact Us"
     btnURL="#contact-us"
 

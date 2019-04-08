@@ -1,15 +1,15 @@
-enable : false
+enable : true
 heading : About
 headingSpan : Us
 aboutItem : 
 - icon : tf-tools
   title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : We are a team of highly-trained and dedicated professionals. Working in sample preparation and preservation in offshore labs, focused on providing results with the precision and speed required in modern drilling.
 
 - icon : tf-strategy
   title : We're Experience
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Our team of geoscientists have 10 to 35 years of industry experience in geology, petrography and biostratigraphy. For 30 years we have provided cutting-edge preparation and analysis laboratory to the oil and gas industry..
 
 - icon : tf-anchor2
   title : We're Results Oriented
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Our goal is to help our clients reduce technical uncertainty in complex business decision environments. We customize our services to meet any of our client needs providing the flexibility that modern services require. 

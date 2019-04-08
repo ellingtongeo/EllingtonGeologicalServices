@@ -1,15 +1,15 @@
-enable : false
+enable : true
 heading : Our
 headingSpan : Services
 serviceItem :
   - icon : tf-globe
     title : Sample Management
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : 
     
   - icon : tf-ion-laptop
     title : Geological Services
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : 
     
   - icon : tf-genius
     title : Wellsite Services
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : 
