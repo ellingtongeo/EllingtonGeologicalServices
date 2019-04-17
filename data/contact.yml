@@ -5,6 +5,7 @@ title : Contact Details
 content : "contact us to get more information about our services"
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
+provider: formspree
 email: contact@ellingtongeo.com
 contactDetails :
   - icon : tf-map-pin
