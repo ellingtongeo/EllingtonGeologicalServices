@@ -2,15 +2,16 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : "contact us to get more information about our services"
+content : "We are located conveniently close to your office, in the heart of Houston’s Energy Corridor."
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 provider: formspree
 email: contact@ellingtongeo.com
 contactDetails :
   - icon : tf-map-pin
-    info : "Houston, Texas"
-    
+    info : " 1414 Lumpkin Rd, Houston, Texas 77043"
   - icon : tf-ion-ios-email-outline
     info : "Email: contact@ellingtongeo.com"
+  - icon : tf-phone2
+    info : "Phone: +1-281-888-9154"
     

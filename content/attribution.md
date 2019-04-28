@@ -7,6 +7,3 @@ description : "Atributions to the team and softwares that made this page possibl
 Special thanks to:
 
 - [meghna-hugo](https://github.com/themefisher/meghna-hugo) from [Themefisher Team](http://www.themefisher.com)
-
-- Logo: Created my free [logo](https://logomakr.com/9F1rfn) at <a href="http://logomakr.com" title="Logo Makr">LogoMakr.com</a> 
-
