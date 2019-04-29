@@ -4,12 +4,19 @@ headingSpan : Services
 serviceItem :
   - icon : tf-globe
     title : Sample Management
-    content : • Sample preparation for microfossils, nannofossils, and other fossils • Sample archiving – drying and systematically bagging and labeling samples with interval, well, client, and operator information • Sample storage (short-term and long-term) • Organization and inventory of samples • Sample splitting • Cleaning cuttings (removal OBM and WBM as well as LCMs) • Receiving samples and facilitating shipment to final destination
-    
-  - icon : tf-ion-laptop
-    title : Geological Services
-    content : • Micropaleontological studies (foraminifera and radiolarians, semiquantitative and quantitative) • Nannofossil studies (calcareous nannoplankton, semiquantitative and quantitative) • Palynology (pollen, spores, dinoflagellates and palynological organic matter, semiquantitative and quantitative) • Micropaleontology and biofacies in thin sections • Other fossil studies on request (diatoms, conodonts, etc) • Core and cutting sample lithological description • Thin section petrography of clastic and carbonate rocks • Chromalogy
-    
-  - icon : tf-genius
-    title : Wellsite Services
-    content : • Calcareous Nannofossils • Foraminifera and other microfossils • Onsite sample preparation technicians • Well site reports in different formats (StrataBugs, csv, customized interpretation software formats) • Hot-shot sample logistics and analyses • Evaluate total gas and chromatography instruments and systems • Appraise sample collection procedures • Examine lithologic descriptions • Review trap functionality and sample line efficiency  • Rate safety measures and compliance • Assess experience and capabilities of personnel
+    content: We provide reliable and efficient pick-up and shipping of samples, organization and re-label of disorderly samples, cleaning off drilling mud and drying at room temperature, repacking each sample by properly bagging and labeling with interval, well, client, and operator information and storage. 
+  - icon : tf-globe
+    title : Sample Preparation
+    content: We provide specialized sample preparation in micropaleontological, nannofossils and conodonts sample preparation
+  - icon : tf-globe
+    title : Biostratigraphy & Paleoenvironments Studies
+    content: 
+  - icon : tf-globe
+    title : Sedimentology & Petrography Studies
+    content: 
+  - icon : tf-globe
+    title : Wellsite Biostratigraphy
+    content: 
+  - icon : tf-globe
+    title : Wellsite Mudlogging Auditing
+    content: 

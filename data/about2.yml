@@ -1,13 +1,13 @@
-enable : false
+enable : true
 image : images/about/microscope.jpg
-title : We’re A Profesional Services Company.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-aboutItem : 
-  - icon : tf-circle-compass
-    title : Something
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+title : 
+description : We’re a genuine Texas company.  Our laboratory is in the heart of Houston’s Energy Corridor.
+description2 : For many years, we have been one of the major destinations in Texas for handling the cutting and core samples.  We understand the importance of the data contained in the rock and the care required to protect, preserve, and extract it. 
+# aboutItem : 
+#   - icon : tf-circle-compass
+#     title : Something
+#     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
     
-  - icon : tf-hotairballoon
-    title : Something Else
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+#   - icon : tf-hotairballoon
+#     title : Something Else
+#     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

@@ -37,10 +37,10 @@ summaryLength = 10
 #    URL = "pricing"
 #    weight = 6
 
-#    [[menu.nav]]
-#    name = "Blog"
-#    URL = "blog"
-#    weight = 7
+   [[menu.nav]]
+   name = "News"
+   URL = "blog"
+   weight = 7
 
    [[menu.nav]]
    name = "Contact"
@@ -51,7 +51,7 @@ summaryLength = 10
 [params]
 home= "Home"
 logo = "images/logo.png"
-gmapAPI = "AIzaSyBcQ66_1SuqFeNIm_nk6mS5e9Prt0OCgnk"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBcQ66_1SuqFeNIm_nk6mS5e9Prt0OCgnk&libraries=places"
 # Meta data
 description = "The geological services you need"
 author = "Ellington Geological Services"
@@ -65,10 +65,10 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-chevron-down"
     heading = "Ellington Geological Services"
-    content= ""
-    btn = false
-    btnText="Contact Us"
-    btnURL="#contact-us"
+    content= "We are a professional geological services in the hearth of Houston serving the oil industry"
+    btn = true
+    btnText="Know More"
+    btnURL="#about"
 
     # call to action
     [params.cta]
