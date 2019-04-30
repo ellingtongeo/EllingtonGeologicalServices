@@ -10,14 +10,5 @@
 	<atom:link href="http://www.ellingtongeo.com/author/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Kanekotic</title>
-      <link>http://www.ellingtongeo.com/author/kanekotic/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>http://www.ellingtongeo.com/author/kanekotic/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

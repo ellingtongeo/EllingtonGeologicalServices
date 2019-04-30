@@ -4,19 +4,31 @@ headingSpan : Services
 serviceItem :
   - icon : tf-globe
     title : Sample Management
-    content: We provide reliable and efficient pick-up and shipping of samples, organization and re-label of disorderly samples, cleaning off drilling mud and drying at room temperature, repacking each sample by properly bagging and labeling with interval, well, client, and operator information and storage. 
+    content: Our sample management system provides a reliable and efficient organization and inventory for samples. Services Include splitting, cleaning cuttings off OBM, WBM and LCMs, and preparing for archiving, e.g. drying and systematically bagging and labeling samples with interval, well, client, and operator information. We offer short-term and long-term storage and organize receiving samples from the wellsite and facilitating its shipment to final destination.
   - icon : tf-globe
-    title : Sample Preparation
-    content: We provide specialized sample preparation in micropaleontological, nannofossils and conodonts sample preparation
+    title : Paleontological Sample Preparation
+    content: At Ellington we process rock samples for micro- and nannofossils extraction, both at the laboratory and the wellsite. For micropaleontology we use the washed residues extraction technique, additionally available is the acetic acid methodology for very indurated rocks. For nannofossils we use the smear slide preparation technique. We also provide conodont extraction. Our flexibility allows to adapt any methodology at client’s request.
   - icon : tf-globe
-    title : Biostratigraphy & Paleoenvironments Studies
-    content: 
-  - icon : tf-globe
-    title : Sedimentology & Petrography Studies
-    content: 
+    title : Hot shot sample preparation and analysis
+    content: Ellington’s lab specializes in high volume, rapid turnaround sample preparation. “Hot shot” preparation is available for smear slides and washed residues and has a turn-around of few hours from the receipt of samples at the lab. This service may be combined with hot shot nannofossil and/or micropaleontological biostratigraphic analyses. When providing this “hot shot” services our lab is on call and operates 24/7.
   - icon : tf-globe
     title : Wellsite Biostratigraphy
-    content: 
+    content: Our wellsite team includes internationally recognized, highly-experienced, micro- and nannopaleontologists, and experienced, highly-skilled, sample preparation technicians. We endeavor to provide real-time biostratigraphy age monitoring for assistance in casing placement and coring points, aiding in the identification of pressure transitions, and TD picking among other operational needs. We are particularly proud of our offshore Gulf of Mexico expertise.
   - icon : tf-globe
-    title : Wellsite Mudlogging Auditing
-    content: 
+    title : Biostratigraphy and Paleoenvironmental Studies
+    content: We provide tailored biostratigraphy studies for both onshore and offshore projects. Studies may be from quick-look or standard resolution age dating to high-resolution biostratigraphy projects. High-resolution studies may include foraminifera, nannofossils, palynology, radiolarian and diatoms from regional prospects to reservoirs. We always prioritize quality, for that reason our biostratigraphy studies stand out as top of the line. 
+  - icon : tf-globe
+    title : Biofacies and Micropaleontology in Thin Sections
+    content: Worldwide we are among the few service companies than can offer biofacies and micropaleontological analysis in thin sections. For highly indurated rocks usually reported as barren because all other fossil extraction methodologies fail, thin section analysis is the best way to gain insight into the paleoenvironmental and age of the rock. We are proud of our experience in unconventionals’ and other Paleozoic -Mesozoic sections.
+  - icon : tf-globe
+    title : Biostratigraphy Data Reinterpretation 
+    content: The Ellington team of biostratigraphers can assist you in reinterpreting and integrating old and/or third parties acquired biostratigraphy data, and to display and store the newly updated age and paleoenvironmental interpretations in the format of your choice, in order to facilitate the integration of this information with your interpretation software. Contact us with your specific questions about this service.
+  - icon : tf-globe
+    title : Lithology and Petrography Studies
+    content: At Ellington’s lab the lithological description of cores and cuttings, and thin section petrography studies are tailored to the specific needs of clients. Point-counting of thin sections can focus on mineralogical composition, texture framework, fabric, porosity, and/or grain size or other characteristics, as required by the project needs. Photomicrographs of relevant thin sections details are routinely provided with the studies.
+  - icon : tf-globe
+    title : Color Logging 
+    content: We perform digital analysis of color variations in cutting samples. The resulting chromatic data is displayed in a log form which may be correlated to wireline, geochemical, and/or other geological logs. Our rock color acquisition and display methodology is robust, accurate and repeatable which allows to identify color patterns that maybe useful for correlation. Our color analyses results can be used as proxies to TOC in some prospective sections.
+  - icon : tf-globe
+    title : Wellsite Mudlogging Audits
+    content: Ellington’s mudlogging quality control audits give operators the confidence to know that their mudlogging personnel and data are the best that they can be.  We provide highly experienced auditors, at wellsite wherever in the world your well is located. We assess personnel experience, evaluate instruments and systems, rate safety and compliance, appraise procedures, lithologic descriptions, sample line efficiency and implement corrections where and when needed.

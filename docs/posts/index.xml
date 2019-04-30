@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ellington Geological Services</title>
-    <link>http://www.ellingtongeo.com/</link>
-    <description>Recent content on Ellington Geological Services</description>
+    <title>Posts on Ellington Geological Services</title>
+    <link>http://www.ellingtongeo.com/posts/</link>
+    <description>Recent content in Posts on Ellington Geological Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 18:14:58 +0200</lastBuildDate>
     
-	<atom:link href="http://www.ellingtongeo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ellingtongeo.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
