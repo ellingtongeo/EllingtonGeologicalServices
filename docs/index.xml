@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ellington Geological Services</title>
-    <link>http://www.ellingtongeo.com/</link>
+    <link>https://www.ellingtongeo.com/</link>
     <description>Recent content on Ellington Geological Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 18:14:58 +0200</lastBuildDate>
     
-	<atom:link href="http://www.ellingtongeo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ellingtongeo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prof. Ian Jarvis presenting with us</title>
-      <link>http://www.ellingtongeo.com/posts/ian_jarvis_presentation/</link>
+      <link>https://www.ellingtongeo.com/posts/ian_jarvis_presentation/</link>
       <pubDate>Sun, 28 Apr 2019 18:14:58 +0200</pubDate>
       
-      <guid>http://www.ellingtongeo.com/posts/ian_jarvis_presentation/</guid>
+      <guid>https://www.ellingtongeo.com/posts/ian_jarvis_presentation/</guid>
       <description>On May 24th we will be hosting in Houston Prof. Ian Jarvis from the Kingston University, London to give a presentation about his research in “Improving Global Stratigraphic Resolution and Timescales for the Late Cretaceous: Carbon Isotope Chemostratigraphy and Integration with Biostratigraphy, Geochronology and Orbital Tuning” Prof.</description>
     </item>
     

@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.ellingtongeo.com/posts/ian_jarvis_presentation/</loc>
+    <loc>https://www.ellingtongeo.com/posts/ian_jarvis_presentation/</loc>
     <lastmod>2019-04-28T18:14:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ellingtongeo.com/author/</loc>
+    <loc>https://www.ellingtongeo.com/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ellingtongeo.com/categories/</loc>
+    <loc>https://www.ellingtongeo.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ellingtongeo.com/</loc>
-    <lastmod>2019-04-28T18:14:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ellingtongeo.com/posts/</loc>
+    <loc>https://www.ellingtongeo.com/</loc>
     <lastmod>2019-04-28T18:14:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ellingtongeo.com/tags/</loc>
+    <loc>https://www.ellingtongeo.com/posts/</loc>
+    <lastmod>2019-04-28T18:14:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ellingtongeo.com/tags/</loc>
     <priority>0</priority>
   </url>
   
