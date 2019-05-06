@@ -6,4 +6,4 @@ description : "Atributions to the team and softwares that made this page possibl
 ---
 Special thanks to:
 
-- [meghna-hugo](https://github.com/themefisher/meghna-hugo) from [Themefisher Team](http://www.themefisher.com)
+- [meghna-hugo](https://github.com/themefisher/meghna-hugo) from [Themefisher Team](https://www.themefisher.com)
