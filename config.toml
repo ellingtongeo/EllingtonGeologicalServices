@@ -18,7 +18,7 @@ summaryLength = 10
    weight = 2
 
    [[menu.nav]]
-   name = "Service"
+   name = "Services"
    URL = "services"
    weight = 3
 
