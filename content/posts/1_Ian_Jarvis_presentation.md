@@ -2,6 +2,8 @@
 title: "Prof. Ian Jarvis presenting with us"
 date: 2019-04-28T18:14:58+02:00
 draft: false
+image: images/posts/ian.JPG
+description : "Ian Jarvis will be in our offices soon"
 ---
 
 On May 24th we will be hosting in Houston Prof. Ian Jarvis from the Kingston University, London to give a presentation about his research in “Improving Global Stratigraphic Resolution and Timescales for the Late Cretaceous: Carbon Isotope Chemostratigraphy and Integration with Biostratigraphy, Geochronology and Orbital Tuning”
