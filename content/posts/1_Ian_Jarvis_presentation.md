@@ -2,7 +2,7 @@
 title: "Prof. Ian Jarvis presenting with us"
 date: 2019-04-28T18:14:58+02:00
 draft: false
-image: images/posts/ian.JPG
+image: images/posts/presentation_ian.jpg
 description : "Ian Jarvis will be in our offices soon"
 ---
 
