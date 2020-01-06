@@ -6,7 +6,7 @@ contact:
   content : We are located conveniently close to your office, in the heart of Houston’s Energy Corridor.
   form_Action: "https://formspree.io/contact@ellingtongeo.com"
   map:
-    enable : true
+    enable : false
     gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyAEYPZqM-DTk65uzTBHbAfdpb6I7Aj8upg&libraries=places"
     mapLatitude : 51.5223477
     mapLongitude: -0.1622023
