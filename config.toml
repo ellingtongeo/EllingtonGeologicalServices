@@ -1,113 +1,119 @@
+################################# Default configuration ###################
 baseURL = "https://www.ellingtongeo.com/"
-languageCode = "en-us"
-DefaultContentLanguage = "en"
 title = "Ellington Geological Services"
 theme = "meghna-hugo"
-summaryLength = 10
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# default content language
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+# disable language
+disableLanguages = []
 
-[taxonomies]
-  author = "author"
-  category = "categories"
-  tag = "tags"
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/animate-css/animate.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
 
-# Menu
+# js plugins
+[[params.plugins.js]]
+URL = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "plugins/wow/wow.min.js"
+
+############################# Navigation ##################################
 [menu]
-   [[menu.nav]]
-   name = "About Us"
-   URL = "about"
-   weight = 2
 
-   [[menu.nav]]
-   name = "Services"
-   URL = "services"
-   weight = 3
+  [[menu.main]]
+  name = "About Us"
+  URL = "about"
+  weight = 2
 
-#    [[menu.nav]]
-#    name = "Portfolio"
-#    URL = "portfolio"
-#    weight = 4
+  [[menu.main]]
+  name = "Service"
+  URL = "services"
+  weight = 3
 
-#    [[menu.nav]]
-#    name = "Team"
-#    URL = "our-team"
-#    weight = 5
+  [[menu.main]]
+  name = "News"
+  URL = "blog"
+  weight = 7
 
-#    [[menu.nav]]
-#    name = "Pricing"
-#    URL = "pricing"
-#    weight = 6
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 8
 
-   [[menu.nav]]
-   name = "News"
-   URL = "blog"
-   weight = 7
 
-   [[menu.nav]]
-   name = "Contact"
-   URL = "contact-us"
-   weight = 8
 
-# Site params
+############################# Default Parameters ##########################
 [params]
-home= "Home"
 logo = "images/logo.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBcQ66_1SuqFeNIm_nk6mS5e9Prt0OCgnk&libraries=places"
 # Meta data
 description = "The geological services you need"
 author = "Ellington Geological Services"
 # Google Analitycs
 googleAnalitycsID = "UA-136503827-1"
-custom_css = ["css/custom.css"]
+# post share
+postShare = true
 
-    # Banner Section
-    [params.banner]
-    enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-chevron-down"
-    heading = "Ellington Geological Services"
-    content= ""
-    btn = true
-    btnText="Know More"
-    btnURL="#about"
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/logo.png"
 
-    # call to action
-    [params.cta]
-    enable = false
-    title = "some"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
+############################# social icons ##########################
+[[params.social_Icon]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-    # counter
-    [params.counter]
-    enable = false
-    bgImage = "images/backgrounds/bg-1.jpg"
-        [[params.counter.counterItem]]
-        title = "Happy Clients"
-        icon = "tf-ion-android-happy"
-        count = "320"
+[[params.social_Icon]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-        [[params.counter.counterItem]]
-        title = "Projects completed"
-        icon = "tf-ion-archive"
-        count = "565"
+[[params.social_Icon]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-        [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
-        count = "95"
+[[params.social_Icon]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-        [[params.counter.counterItem]]
-        title = "Cups of Coffee"
-        icon = "tf-ion-coffee"
-        count = "2500"
+[[params.social_Icon]]
+icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-    # footer
-    [params.footer]
-        copyright = "Kanekotic. With the help of Themefisher Team"
-        copyrightURL = "/attribution"
+[[params.social_Icon]]
+icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-        # # social Icons
-        # [[params.footer.socialIcon]]
-        # icon = "tf-ion-social-linkedin"
-        # url = "#"
+################################# language ################################
+[Languages]
+
+  ################################ English Language ########################
+  [Languages.en]
+  languageName = "En"
+  languageCode = "en-us"
+  contentDir = "content/english"
+  weight = 1
+  home = "Home"
