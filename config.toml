@@ -50,7 +50,7 @@ URL = "plugins/wow/wow.min.js"
   weight = 2
 
   [[menu.main]]
-  name = "Service"
+  name = "Services"
   URL = "services"
   weight = 3
 
