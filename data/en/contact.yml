@@ -7,7 +7,7 @@ contact:
   form_Action: "https://formspree.io/contact@ellingtongeo.com"
   map:
     enable : true
-    gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyBcQ66_1SuqFeNIm_nk6mS5e9Prt0OCgnk&libraries=places"
+    gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyAEYPZqM-DTk65uzTBHbAfdpb6I7Aj8upg&libraries=places"
     mapLatitude : 51.5223477
     mapLongitude: -0.1622023
   contact_Details :
