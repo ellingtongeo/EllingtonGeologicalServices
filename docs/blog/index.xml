@@ -1,50 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Ellington Geological Services</title>
-    <link>http://www.ellingtongeo.com/blog/</link>
+    <link>https://www.ellingtongeo.com/blog/</link>
     <description>Recent content in Blogs on Ellington Geological Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 07:51:50 -0500</lastBuildDate>
     
-	<atom:link href="http://www.ellingtongeo.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ellingtongeo.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>http://www.ellingtongeo.com/blog/are-you-doing-the-right-way/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>Integrated Cretaceous Stratigraphy, Keynote Talk at EGS</title>
+      <link>https://www.ellingtongeo.com/blog/6_keynote_talk_egs/</link>
+      <pubDate>Sun, 05 Jan 2020 07:51:50 -0500</pubDate>
       
-      <guid>http://www.ellingtongeo.com/blog/are-you-doing-the-right-way/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://www.ellingtongeo.com/blog/6_keynote_talk_egs/</guid>
+      <description>On November 8th, 2019, EGS hosted a live-video Keynote Talk by Prof.</description>
     </item>
     
     <item>
-      <title>Simple Post Title</title>
-      <link>http://www.ellingtongeo.com/blog/simple-post-title/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      <title>Ellington’s highlight product: create spectral gamma ray log using drill cuttings</title>
+      <link>https://www.ellingtongeo.com/blog/5_spectral_gama_ray/</link>
+      <pubDate>Sat, 19 Oct 2019 08:51:50 -0500</pubDate>
       
-      <guid>http://www.ellingtongeo.com/blog/simple-post-title/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://www.ellingtongeo.com/blog/5_spectral_gama_ray/</guid>
+      <description>The spectral gamma ray well logging using drill cuttings provides quantitative measurements of potassium (K) in wt%, uranium (U) in ppm, and thorium (Th) in ppm, which are used to construct a spectral gamma ray log in API units.</description>
     </item>
     
     <item>
-      <title>Simple Image Post</title>
-      <link>http://www.ellingtongeo.com/blog/simple-image-post/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Ellington Geological services at GCAGS 2019</title>
+      <link>https://www.ellingtongeo.com/blog/4_gcags_2019/</link>
+      <pubDate>Sat, 19 Oct 2019 07:51:50 -0500</pubDate>
       
-      <guid>http://www.ellingtongeo.com/blog/simple-image-post/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://www.ellingtongeo.com/blog/4_gcags_2019/</guid>
+      <description>We will be exhibiting at the GCAGS next week. Hope to see you there!</description>
     </item>
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>http://www.ellingtongeo.com/blog/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>AAPG ACE 2019 in San Antonio</title>
+      <link>https://www.ellingtongeo.com/blog/3_aapg_2019/</link>
+      <pubDate>Fri, 31 May 2019 07:51:50 -0500</pubDate>
       
-      <guid>http://www.ellingtongeo.com/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <guid>https://www.ellingtongeo.com/blog/3_aapg_2019/</guid>
+      <description>At the AAPG ACE 2019 in San Antonio, our biostratigraphers and associated consultants presented three contributions at the &amp;ldquo;Innovation and Technology in Biostratigraphy for challenging times&amp;rdquo; poster session.</description>
+    </item>
+    
+    <item>
+      <title>Ian Jarvis Visit</title>
+      <link>https://www.ellingtongeo.com/blog/2_ian_jarvis_visil/</link>
+      <pubDate>Fri, 31 May 2019 07:48:50 -0500</pubDate>
+      
+      <guid>https://www.ellingtongeo.com/blog/2_ian_jarvis_visil/</guid>
+      <description>Global Expert in Cretaceous Dr. I. Jarvis -Kingston University, London- visited our Houston laboratory to talk about &amp;ldquo;Improving Global Stratigraphic Resolution and Timescales for Late Cretaceous: Carbon Isotope Chemostratigraphy &amp;amp; Integration with Biostratigraphy, Geochronology &amp;amp; Orbital Tuning&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Prof. Ian Jarvis presenting with us</title>
+      <link>https://www.ellingtongeo.com/blog/1_ian_jarvis_presentation/</link>
+      <pubDate>Sun, 28 Apr 2019 18:14:58 +0200</pubDate>
+      
+      <guid>https://www.ellingtongeo.com/blog/1_ian_jarvis_presentation/</guid>
+      <description>On May 24th we will be hosting in Houston Prof. Ian Jarvis from the Kingston University, London to give a presentation about his research in “Improving Global Stratigraphic Resolution and Timescales for the Late Cretaceous: Carbon Isotope Chemostratigraphy and Integration with Biostratigraphy, Geochronology and Orbital Tuning” Prof.</description>
     </item>
     
   </channel>

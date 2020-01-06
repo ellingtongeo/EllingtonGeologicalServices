@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ellingtongeo.com/blog/</loc>
+    <lastmod>2020-01-05T07:51:50-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.ellingtongeo.com/</loc>
     <lastmod>2020-01-05T07:51:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ellingtongeo.com/posts/6_keynote_talk_egs/</loc>
+    <loc>https://www.ellingtongeo.com/blog/6_keynote_talk_egs/</loc>
     <lastmod>2020-01-05T07:51:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ellingtongeo.com/posts/</loc>
-    <lastmod>2020-01-05T07:51:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ellingtongeo.com/posts/5_spectral_gama_ray/</loc>
+    <loc>https://www.ellingtongeo.com/blog/5_spectral_gama_ray/</loc>
     <lastmod>2019-10-19T08:51:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ellingtongeo.com/posts/4_gcags_2019/</loc>
+    <loc>https://www.ellingtongeo.com/blog/4_gcags_2019/</loc>
     <lastmod>2019-10-19T07:51:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ellingtongeo.com/posts/3_aapg_2019/</loc>
+    <loc>https://www.ellingtongeo.com/blog/3_aapg_2019/</loc>
     <lastmod>2019-05-31T07:51:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ellingtongeo.com/posts/2_ian_jarvis_visil/</loc>
+    <loc>https://www.ellingtongeo.com/blog/2_ian_jarvis_visil/</loc>
     <lastmod>2019-05-31T07:48:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ellingtongeo.com/posts/1_ian_jarvis_presentation/</loc>
+    <loc>https://www.ellingtongeo.com/blog/1_ian_jarvis_presentation/</loc>
     <lastmod>2019-04-28T18:14:58+02:00</lastmod>
   </url>
   
@@ -48,6 +48,14 @@
   
   <url>
     <loc>https://www.ellingtongeo.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ellingtongeo.com/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ellingtongeo.com/author/mark-dinn/</loc>
   </url>
   
   <url>
