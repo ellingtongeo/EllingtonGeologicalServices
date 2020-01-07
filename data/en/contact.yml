@@ -8,8 +8,8 @@ contact:
   map:
     enable : false
     gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyAEYPZqM-DTk65uzTBHbAfdpb6I7Aj8upg&libraries=places"
-    mapLatitude : 51.5223477
-    mapLongitude: -0.1622023
+    mapLatitude : 29.7913
+    mapLongitude: -95.5584
   contact_Details :
     - icon : ti-location-pin
       info : " 1414 Lumpkin Rd, Houston, Texas 77043"
