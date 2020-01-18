@@ -1,6 +1,7 @@
 ---
 title: "Integrated Cretaceous Stratigraphy, Keynote Talk at EGS"
 date: 2020-01-05T07:51:50-05:00
+draft: false
 image: images/posts/keynote_1.jpg
 description : "Keynote Talk by Prof. M. R. Petrizzo and F. Falzoni from the University of Milan"
 ---

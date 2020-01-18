@@ -1,6 +1,7 @@
 ---
 title: "Biostratigraphy Well-site and In-house Services"
 date: 2020-01-28T07:51:50-05:00
+draft: false
 image: images/posts/HGS_GCAGS_1.png
 description : "Biostratigraphy Well-site and In-house Services"
 ---

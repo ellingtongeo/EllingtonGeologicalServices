@@ -1,6 +1,7 @@
 ---
 title: "EGS Timeline"
 date: 2020-01-14T07:51:50-05:00
+draft: false
 image: images/posts/egs_timeline_1.jpg
 description : "EGS Timeline"
 ---

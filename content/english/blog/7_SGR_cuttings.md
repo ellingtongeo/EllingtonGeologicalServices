@@ -1,6 +1,7 @@
 ---
 title: "Spectral Gamma Ray Cuttings"
 date: 2020-01-07T07:51:50-05:00
+draft: false
 image: images/posts/spectral_gamma_1.jpg
 description : "Spectral Gamma Ray Cuttings"
 ---
