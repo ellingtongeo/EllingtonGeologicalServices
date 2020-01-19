@@ -2,7 +2,7 @@
 title: "Biostratigraphy Well-site and In-house Services"
 date: 2020-01-20T07:51:50-05:00
 draft: false
-image: images/posts/biostratigraphy_wellsite_1.jpg
+image: images/posts/biostratigraphy_services_1.jpg
 description : "Biostratigraphy Well-site and In-house Services"
 ---
 
