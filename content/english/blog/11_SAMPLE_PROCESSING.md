@@ -2,7 +2,7 @@
 title: "Exclusive Sample Processing and Management Services"
 date: 2020-02-12T07:51:50-05:00
 draft: false
-image: images/posts/sample_processing_1.jpg
+image: images/posts/sample_processing_3.jpg
 description : "Exclusive Sample Processing and Management Services"
 ---
 
@@ -10,4 +10,4 @@ Ellington’s lab specializes in high volume, rapid turnaround sample processing
 shipment to the final destination.
 
 {{< figure src="/images/posts/sample_processing_2.jpg" alt="Exclusive Sample Processing and Management Services" width="650px">}}
-{{< figure src="/images/posts/sample_processing_3.jpg" alt="Exclusive Sample Processing and Management Services" width="650px">}}
+{{< figure src="/images/posts/sample_processing_1.jpg" alt="Exclusive Sample Processing and Management Services" width="650px">}}
