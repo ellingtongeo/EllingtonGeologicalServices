@@ -1,5 +1,5 @@
 ---
-title: "Ellington’s sample management service"
+title: "Ellington’s sample management"
 date: 2020-02-23T07:51:50-05:00
 draft: false
 image: images/posts/SM_30_years.jpg
