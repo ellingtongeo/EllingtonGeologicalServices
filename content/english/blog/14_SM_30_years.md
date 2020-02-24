@@ -15,5 +15,3 @@ Our sample management system provides a reliable and efficient organization and 
 We offer short-term and long-term storage and organize receiving samples from the wellsite and facilitating its shipment to the final destination.
 
 We have a modern in-house wash laboratory for cleaning cutting samples for short-, and long-term preservation.
-
-{{< figure src="/images/posts/SM_30_years.jpg" alt="30 years" width="650px">}}
