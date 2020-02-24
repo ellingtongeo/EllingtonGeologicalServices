@@ -6,10 +6,28 @@
     <description>Recent content in Blogs on Ellington Geological Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2020 07:51:50 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 07:51:50 -0500</lastBuildDate>
     
 	<atom:link href="https://www.ellingtongeo.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ellington’s sample management service</title>
+      <link>https://www.ellingtongeo.com/blog/14_sm_30_years/</link>
+      <pubDate>Sun, 23 Feb 2020 07:51:50 -0500</pubDate>
+      
+      <guid>https://www.ellingtongeo.com/blog/14_sm_30_years/</guid>
+      <description>Ellington’s sample management service has been in operation for over 30 years.</description>
+    </item>
+    
+    <item>
+      <title>Spectral Gamma Ray in well cuttings</title>
+      <link>https://www.ellingtongeo.com/blog/13_sgr_in_well_cutting-copy/</link>
+      <pubDate>Sun, 23 Feb 2020 07:51:50 -0500</pubDate>
+      
+      <guid>https://www.ellingtongeo.com/blog/13_sgr_in_well_cutting-copy/</guid>
+      <description>The spectral gamma well logging using drill cuttings (wet/unwashed or dry/archived) is a new technology initially developed by Shell.</description>
+    </item>
     
     <item>
       <title>Exclusive Sample Processing and Management Services</title>
