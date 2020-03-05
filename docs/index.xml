@@ -6,17 +6,26 @@
     <description>Recent content on Ellington Geological Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 07:51:50 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 07:51:50 -0500</lastBuildDate>
     
 	<atom:link href="https://www.ellingtongeo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>EGS Core Scanning Workflow</title>
+      <link>https://www.ellingtongeo.com/blog/15_core_scanning_workflow/</link>
+      <pubDate>Tue, 03 Mar 2020 07:51:50 -0500</pubDate>
+      
+      <guid>https://www.ellingtongeo.com/blog/15_core_scanning_workflow/</guid>
+      <description>Traditional core analysis workflows do not capture or quantify heterogeneity at the core scale and may not identify important beds, features, or rock types.</description>
+    </item>
+    
+    <item>
       <title>Ellington’s sample management</title>
-      <link>https://www.ellingtongeo.com/blog/14_sm_30_years/</link>
+      <link>https://www.ellingtongeo.com/blog/14_sm_30_years-copy/</link>
       <pubDate>Sun, 23 Feb 2020 07:51:50 -0500</pubDate>
       
-      <guid>https://www.ellingtongeo.com/blog/14_sm_30_years/</guid>
+      <guid>https://www.ellingtongeo.com/blog/14_sm_30_years-copy/</guid>
       <description>Ellington’s sample management service has been in operation for over 30 years.</description>
     </item>
     
