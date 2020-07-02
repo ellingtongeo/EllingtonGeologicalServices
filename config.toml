@@ -45,11 +45,6 @@ URL = "plugins/wow/wow.min.js"
 [menu]
 
   [[menu.main]]
-  name = "About Us"
-  URL = "about"
-  weight = 2
-
-  [[menu.main]]
   name = "Services"
   URL = "services"
   weight = 3
