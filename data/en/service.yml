@@ -10,10 +10,10 @@ service:
       title : Paleontological Sample Preparation
       content: At Ellington we process rock samples for micro- and nannofossils extraction, both at the laboratory and the wellsite. For micropaleontology we use the washed residues extraction technique, additionally available is the acetic acid methodology. For nannofossils, we use the smear slide preparation technique. We also provide conodont extraction.
     - icon : ti-world
-      title : Biostratigraphy and Paleoenvironmental Studies
+      title : Biostratigraphy and Paleoenvironmental
       content: We provide tailored biostratigraphy studies for both onshore and offshore projects. Studies may be from quick-look or standard resolution age dating to high-resolution biostratigraphy projects. High-resolution studies may include foraminifera, nannofossils, palynology, radiolarian and diatoms from regional prospects to reservoirs. We always prioritize quality, for that reason our biostratigraphy studies stand out as top of the line.     
     - icon : ti-world
-      title : Biofacies and Micropaleontology in Thin Sections
+      title : Micropaleontology in Thin Sections
       content: Worldwide we are among the few service companies than can offer biofacies and micropaleontological analysis in thin sections. For highly indurated rocks usually reported as barren because all other fossil extraction methodologies fail, thin section analysis is the best way to gain insight into the paleoenvironmental and age of the rock. We are proud of our experience in unconventionals’ and other Paleozoic -Mesozoic sections.
     - icon : ti-world
       title : Wellsite Biostratigraphy
@@ -25,7 +25,7 @@ service:
       title : Lithology and Petrography Studies
       content: At Ellington’s lab the lithological description of cores and cuttings, and thin section petrography studies are tailored to the specific needs of clients. Point-counting of thin sections can focus on mineralogical composition, texture framework, fabric, porosity, and/or grain size or other characteristics. Photomicrographs of relevant thin sections details are routinely provided with the studies.
     - icon : ti-world
-      title : Spectral Gamma Ray Well Logging Using Drill Cuttings
+      title : Spectral Gamma Ray Logging with Drill Cuttings
       content: Ellington’s new advanced technology provides quantitative measurements of potassium, uranium, and thorium, which construct a spectral gamma ray log in API units. It can be used to determine confidence level between results from drill cuttings and LWD or wireline logs, provide alternative gamma log when LWD or wireline GR log is absent or uncertain and more. This technique is highly accurate, non-destructive, fast, and affordable. 
     - icon : ti-world
       title : Rapid Rock Results
