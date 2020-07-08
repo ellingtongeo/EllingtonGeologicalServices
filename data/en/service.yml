@@ -10,11 +10,11 @@ service:
       title : Paleontological Sample Preparation
       content: At Ellington we process rock samples for micro- and nannofossils extraction, both at the laboratory and the wellsite. For micropaleontology we use the washed residues extraction technique, additionally available is the acetic acid methodology. For nannofossils, we use the smear slide preparation technique. We also provide conodont extraction.
     - icon : ti-world
-      title : Biostratigraphy and Paleoenvironmental
+      title : Biostratigraphy and Paleoenvironments
       content: We provide tailored biostratigraphy studies for both onshore and offshore projects. Studies may be from quick-look or standard resolution age dating to high-resolution biostratigraphy projects. High-resolution studies may include foraminifera, nannofossils, palynology, radiolarian and diatoms from regional prospects to reservoirs. We always prioritize quality, for that reason our biostratigraphy studies stand out as top of the line.     
     - icon : ti-world
       title : Micropaleontology in Thin Sections
-      content: Worldwide we are among the few service companies than can offer biofacies and micropaleontological analysis in thin sections. For highly indurated rocks usually reported as barren because all other fossil extraction methodologies fail, thin section analysis is the best way to gain insight into the paleoenvironmental and age of the rock. We are proud of our experience in unconventionals’ and other Paleozoic -Mesozoic sections.
+      content: We are among the few service companies than offer biofacies and micropaleontological analysis in thin sections. For highly indurated rocks usually reported as barren because all other fossil extraction methodologies fail, thin section analysis is the best way to gain insight into the paleoenvironment and age of the rock. We are proud of our experience in unconventionals’ and other Paleozoic-Mesozoic sections.
     - icon : ti-world
       title : Wellsite Biostratigraphy
       content: Our wellsite team includes internationally recognized, highly-experienced, micro- and nannopaleontologists, and experienced, highly-skilled, sample preparation technicians. We endeavor to provide real-time biostratigraphy age monitoring for assistance in casing placement and coring points, aiding in the identification of pressure transitions, and TD picking among other operational needs. We are particularly proud of our offshore Gulf of Mexico expertise.
@@ -30,3 +30,4 @@ service:
     - icon : ti-world
       title : Rapid Rock Results
       content: The Rapid Rock Results is a fast turnaround, low cost, and high value service that integrates key data from HAWK pyrolysis, XRD, and XRF to help you screen your cuttings or core samples in order to make better drilling and completion decisions.  We not only deliver data but have the expertise to offer program design and data interpretation services to maximize the geological value of these rocks and address the specific goals of your analysis program.
+      
