@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Ellington Geological Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2020 07:51:50 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 07:51:50 -0500</lastBuildDate>
     
 	<atom:link href="https://www.ellingtongeo.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Innovative Cuttings Sample Management Workflow</title>
+      <link>https://www.ellingtongeo.com/blog/27_cutting_sample_workflow/</link>
+      <pubDate>Thu, 10 Dec 2020 07:51:50 -0500</pubDate>
+      
+      <guid>https://www.ellingtongeo.com/blog/27_cutting_sample_workflow/</guid>
+      <description>It was great to have your participation at today&amp;rsquo;s paleo talk of the Ellington Geological Services monthly webinar technical talk series!</description>
+    </item>
     
     <item>
       <title>Free Webinar Biostratigraphy for Non-biostratigraphers</title>
