@@ -1,6 +1,6 @@
 ---
 title: "Season Greetings!"
-date: 2020-12-10T07:51:50-05:00
+date: 2020-12-12T07:51:50-05:00
 draft: false
 image: images/posts/holidays_1.jpg
 description : Season Greetings!
